@@ -53,6 +53,7 @@ export default tseslint.config({
 })
 ```
 ## API with Json-Server
+Doc: https://github.com/typicode/json-server
 ```
 npm install --save-dev json-server
 npx json-server .\data\movies2024_dataset.json

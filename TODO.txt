@@ -1,6 +1,10 @@
 - useRef
 - useEffect + debat utilisation + unsubscribe
 - new hooks React 19
+	* use
+	* useActionState
+	* useFormStatus, useFormState
+	* useOptimistic
 - custom Hook
 - connect to API: natif ou framework
 - error boundaries

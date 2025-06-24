@@ -1,0 +1,14 @@
+- useRef
+- useEffect + debat utilisation + unsubscribe
+- new hooks React 19
+- custom Hook
+- connect to API: natif ou framework
+- error boundaries
+- reactive forms
+- suspense
+- router/import + lazy loading (Ex: next/dynamic)
+
+- HOC
+
+- bonnes pratiques (client + serveur)
+- concepts avancés

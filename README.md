@@ -52,3 +52,9 @@ export default tseslint.config({
   },
 })
 ```
+## API with Json-Server
+```
+npm install --save-dev json-server
+npx json-server .\data\movies2024_dataset.json
+```
+
